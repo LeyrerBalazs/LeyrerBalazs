@@ -1,0 +1,15 @@
+- 👋 Hi, I’m Leyrer Balázs
+- 👀 I’m interested in Networks, Programing and IT Security
+- 🌱 I’m currently learning in University of Sopron
+
+- :books: I already have these certs:
+    - Cisco Networking Academy:
+        - IT Essentials
+        - CCNA Router and Switching: Introduction to Networks
+        - CCNA Router and Switching: Router and Switching Essentials
+        - CCNA Router and Switching: Scaling Networks
+        - CCNA Router and Switching: Connecting Networks
+        - NDG Linux Unhatched
+        - NDG Linux Essentials
+        - Introduction to Cybersecurity
+        - Academy Cybersecurity Essentials
