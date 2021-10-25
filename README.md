@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leyrer Balázs
+- 👋 Hi, I’m Balázs Leyrer from :hungary: Hungary :hungary:
 - 👀 I’m interested in Networks, Programing and IT Security
 - 🌱 I’m currently learning in University of Sopron
 
