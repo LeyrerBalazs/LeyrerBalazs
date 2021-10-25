@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning in University of Sopron
 
 - :books: I already have these certs:
+    - Professional Certificates:
+        - Computer system maintaner
+        - Office IT specialist
+        - IT system operator
     - Cisco Networking Academy:
         - IT Essentials
         - CCNA Router and Switching: Introduction to Networks
@@ -13,3 +17,9 @@
         - NDG Linux Essentials
         - Introduction to Cybersecurity
         - Academy Cybersecurity Essentials
+ 
+- Used progrmaming languages:
+    - C#
+    - Python
+    - PHP (and HTML, CSS)
+    - JavaScript
